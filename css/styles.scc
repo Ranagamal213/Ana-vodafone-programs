@@ -1,0 +1,10 @@
+body {   color: red ;
+   font-family: arial;
+     margin: 6px;
+      background-color:red;
+padding: 20px;
+margin: 0 auto;
+border-radius: :130px;
+{
+  font-size: 2.5em;
+}

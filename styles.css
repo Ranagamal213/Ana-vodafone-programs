@@ -1,0 +1,15 @@
+body{ color:red;
+  font-family: arial;
+    margin: 6px;
+     background-color:white;
+padding: 20px;
+margin: 0 auto;
+border-radius: :130px;
+}
+div {   align-items: center; }
+h1#sms {   text-align:center;   color:red; }
+h2#mam {   text-align:center;   color:red; }
+h1 {   font-size: 5em; }
+img.center { display: flex;}
+div {   align-items: Left; }
+  </body>
